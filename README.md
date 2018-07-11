@@ -1,5 +1,5 @@
 # Minesweeper
-A self-defined, text-based, user-friendly Python implementation of the game Minesweeper.
+A self-defined, text-based, user-friendly Python2 implementation of the game Minesweeper.
 
 The program create a 9x9 field containing 10 randomly placed mines and display it to the user.
 

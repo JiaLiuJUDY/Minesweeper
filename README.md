@@ -10,5 +10,5 @@ A design document specifies input, output, functionality of this program. Also i
 A ready-to-use python minesweeper code.
 
 * Minesweeper:
-An auxiliary file when you want to call .py file in terminal.
+An auxiliary file when you want to call .py file in terminal.\n
 Usage: **$ ./Minesweeper**

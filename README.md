@@ -12,4 +12,4 @@ A ready-to-use python minesweeper code.
 * Minesweeper_run:
 An auxiliary file when you want to call .py file in terminal. <br /> Usage: **$ ./Minesweeper**
 
-![Alt text](/Demo\ Output)
+![image](https://user-images.githubusercontent.com/33583237/42601631-e76aac0c-852b-11e8-9fd6-590615fc2189.png)
